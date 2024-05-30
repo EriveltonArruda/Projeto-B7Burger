@@ -32,3 +32,23 @@ body {
 .logo a span {
   color: #fe6a0f;
 }
+
+/* HEADER */
+
+header .container {
+  display: flex;
+  align-items: center;
+  padding: 0 45px;
+  gap: 50px;
+}
+
+header nav {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+header nav .leftside {
+  display: flex;
+  flex: 1;
+}
